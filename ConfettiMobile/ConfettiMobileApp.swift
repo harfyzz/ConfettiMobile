@@ -11,7 +11,7 @@ import SwiftUI
 struct ConfettiMobileApp: App {
     var body: some Scene {
         WindowGroup {
-            ConfettiView()
+            AnimtedTypo1()
         }
     }
 }
